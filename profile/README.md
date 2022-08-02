@@ -13,4 +13,3 @@ This website is designed to get students age 10+ into programming.
 * [lang-karol](https://github.com/robotcoral/lang-karol): Lezer parser & javascript compiler for the Karol Programming Language
 * [coral-docs](https://github.com/robotcoral/coral-docs): Documentation for Robot Coral
 * [coral-assets](https://github.com/robotcoral/coral-assets): Brand and project assets for the Robot Coral project
-* 
